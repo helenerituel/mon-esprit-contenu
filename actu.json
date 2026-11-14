@@ -1,0 +1,1003 @@
+{
+ "week": "Semaine du 9 novembre 2026",
+ "formations": [
+  {
+   "id": "actu-2026-11-09",
+   "cat": "Actu de la semaine",
+   "level": "Débutante",
+   "title": "Budget 2027 : pourquoi la France n'arrive pas à voter ses comptes",
+   "sub": "458 députés contre, zéro pour : on décrypte ensemble le feuilleton du budget, de zéro.",
+   "lessons": [
+    {
+     "title": "Le budget de l'État, c'est quoi ?",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "Bienvenue",
+       "h": "Pourquoi on parle tant du budget ?",
+       "b": "Cette semaine, un mot revient partout dans l'actu : **le budget 2027**. Les députés l'ont rejeté, le Sénat l'examine, et le gouvernement cherche une porte de sortie.\n\nPas de panique : on part de zéro. À la fin de cette formation, tu sauras lire ces titres comme une pro.",
+       "tip": "Garde en tête une image simple : le budget de l'État, c'est comme le budget d'une famille, mais en milliards."
+      },
+      {
+       "t": "txt",
+       "k": "Les bases",
+       "h": "Recettes et dépenses",
+       "b": "Chaque année, l'État prévoit deux choses :\n\n**Les recettes** : l'argent qui rentre (impôt sur le revenu, TVA, impôt sur les sociétés…).\n\n**Les dépenses** : l'argent qui sort (écoles, armée, hôpitaux, police, intérêts de la dette…).\n\nLe budget, c'est le tableau qui met les deux face à face pour l'année suivante."
+      },
+      {
+       "t": "flip",
+       "h": "Les mots du budget",
+       "items": [
+        [
+         "PLF",
+         "Projet de loi de finances : le budget de l'**État** (impôts, ministères)."
+        ],
+        [
+         "PLFSS",
+         "Projet de loi de financement de la Sécurité sociale : le budget de la **Sécu** (santé, retraites, famille)."
+        ],
+        [
+         "Déficit",
+         "Quand on dépense **plus** que ce qu'on gagne sur une année."
+        ],
+        [
+         "Dette",
+         "L'**addition** de tous les déficits passés : ce que l'État doit encore rembourser."
+        ]
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "Quand l'État dépense plus qu'il ne gagne en une année, on parle de…",
+       "o": [
+        "Dette",
+        "Déficit",
+        "Inflation",
+        "Croissance"
+       ],
+       "a": 1,
+       "e": "C'est le **déficit** : le « trou » de l'année. La dette, elle, c'est le cumul de tous les trous des années passées."
+      },
+      {
+       "t": "txt",
+       "k": "Deux textes",
+       "h": "Deux budgets en même temps",
+       "b": "Chaque automne, le Parlement examine **deux** textes en parallèle : le PLF (budget de l'État) et le PLFSS (budget de la Sécurité sociale).\n\nPour 2027, le gouvernement les a présentés **le jeudi 1er octobre 2026**.",
+       "more": [
+        "Toute l'Europe – Budget 2027 : ce qu'il faut retenir",
+        "https://www.touteleurope.eu/economie-et-social/budget-2027-ce-qu-il-faut-retenir-des-mesures-annoncees-par-le-gouvernement-lecornu/"
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "La règle du jeu",
+       "h": "Qui décide ?",
+       "b": "Le **gouvernement** écrit le projet. Le **Parlement** le vote : d'abord l'**Assemblée nationale** (577 députés), puis le **Sénat**.\n\nLes députés peuvent modifier le texte avec des **amendements** (des propositions de changement). Le texte fait ensuite des allers-retours entre les deux chambres : c'est la **navette**.",
+       "tip": "Le budget est découpé en deux parties : **les recettes** d'abord, puis **les dépenses**. Si la première partie est rejetée, la seconde n'est même pas examinée."
+      },
+      {
+       "t": "vf",
+       "q": "Si les députés rejettent la partie « recettes » du budget, ils examinent quand même la partie « dépenses ».",
+       "a": false,
+       "e": "Non ! Le rejet de la première partie (recettes) entraîne le rejet de tout le texte en première lecture. C'est exactement ce qui s'est passé le 4 novembre."
+      },
+      {
+       "t": "txt",
+       "k": "Le chrono",
+       "h": "Le Parlement a un délai",
+       "b": "La Constitution donne au Parlement **70 jours** pour se prononcer sur le budget de l'État (et 50 jours pour celui de la Sécu). Passé ce délai, le gouvernement peut agir seul, par **ordonnance**.\n\nPour 2027, ces délais expirent le **17 décembre** pour le PLF et le **26 novembre** pour le PLFSS.",
+       "more": [
+        "LCP – Budget 2027 rejeté : quelles sont les prochaines étapes ?",
+        "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
+       ]
+      },
+      {
+       "t": "match",
+       "q": "Associe chaque mot à sa définition",
+       "pairs": [
+        [
+         "Amendement",
+         "Proposition de modification d'un texte"
+        ],
+        [
+         "Navette",
+         "Allers-retours du texte entre Assemblée et Sénat"
+        ],
+        [
+         "PLFSS",
+         "Budget de la Sécurité sociale"
+        ],
+        [
+         "Recettes",
+         "L'argent qui rentre dans les caisses"
+        ]
+       ]
+      },
+      {
+       "t": "sum",
+       "h": "À retenir",
+       "p": [
+        "Le budget met face à face les **recettes** et les **dépenses** de l'État.",
+        "Deux textes chaque automne : le **PLF** (État) et le **PLFSS** (Sécu).",
+        "Le gouvernement propose, le **Parlement** vote (Assemblée puis Sénat).",
+        "Le Parlement a **70 jours** pour le PLF, **50 jours** pour le PLFSS."
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Le 4 novembre : un rejet historique",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "L'événement",
+       "h": "Que s'est-il passé ?",
+       "b": "Le **mercredi 4 novembre 2026** au soir, les députés ont voté sur la partie « recettes » du budget 2027.\n\nRésultat : **458 voix contre, 0 pour, 2 abstentions**. Même les députés qui soutiennent le gouvernement ont voté contre !",
+       "more": [
+        "Euronews – Budget 2027 : l'Assemblée rejette le texte à l'unanimité",
+        "https://fr.euronews.com/2026/11/05/budget-2027-lassemblee-nationale-rejette-le-texte-a-lunanimite"
+       ]
+      },
+      {
+       "t": "num",
+       "q": "Combien de députés ont voté contre la partie « recettes » du budget 2027 ?",
+       "min": 0,
+       "max": 577,
+       "step": 1,
+       "a": 458,
+       "tol": 5,
+       "u": "voix",
+       "e": "**458 voix contre**, aucune pour, et 2 abstentions (dans le groupe communiste et ultramarin)."
+      },
+      {
+       "t": "txt",
+       "k": "Pourquoi ?",
+       "h": "Un texte « détricoté »",
+       "b": "Les débats ont duré du **13 octobre au 4 novembre** (26 séances). Pendant ce temps, les députés ont voté plein d'amendements, parfois grâce à des alliances de circonstance.\n\nAu final, le texte ne ressemblait plus à rien de cohérent : chacun avait une bonne raison de le rejeter, mais pas la même.",
+       "more": [
+        "Assemblée nationale – Rejet en première lecture du PLF 2027",
+        "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027"
+       ]
+      },
+      {
+       "t": "flip",
+       "h": "Chacun ses raisons",
+       "items": [
+        [
+         "Les oppositions",
+         "Elles désapprouvent les choix du gouvernement."
+        ],
+        [
+         "Les soutiens du gouvernement",
+         "Ils jugent que le texte a été « totalement détricoté » par les amendements."
+        ],
+        [
+         "Le gouvernement",
+         "Il estime que les votes auraient fait grimper le déficit jusqu'à **5,9 %** du PIB."
+        ],
+        [
+         "Plusieurs députés",
+         "Ils jugent les prévisions de croissance dépassées, car l'économie ralentit."
+        ]
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "Pourquoi des députés favorables au gouvernement ont-ils aussi voté contre ?",
+       "o": [
+        "Ils voulaient renverser le Premier ministre",
+        "Le texte avait été trop modifié par les amendements",
+        "Ils étaient absents",
+        "Le vote était secret"
+       ],
+       "a": 1,
+       "e": "Les soutiens du gouvernement estimaient que le texte avait été complètement dénaturé par les amendements votés pendant les débats."
+      },
+      {
+       "t": "txt",
+       "k": "La conséquence",
+       "h": "Retour à la case départ… au Sénat",
+       "b": "Comme la première partie est rejetée, **tout le texte** est considéré comme rejeté en première lecture à l'Assemblée.\n\nC'est donc la **version initiale du gouvernement** (sans les amendements des députés) qui part au Sénat.",
+       "more": [
+        "LCP – Budget 2027 rejeté : quelles sont les prochaines étapes ?",
+        "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
+       ]
+      },
+      {
+       "t": "vf",
+       "q": "Le texte envoyé au Sénat contient tous les amendements votés par les députés.",
+       "a": false,
+       "e": "Faux : comme le texte a été rejeté, c'est la version **initiale** du gouvernement qui est transmise au Sénat."
+      },
+      {
+       "t": "txt",
+       "k": "Même scénario",
+       "h": "La Sécu aussi",
+       "b": "Le budget de la Sécurité sociale a connu le même sort : le **23 octobre 2026**, les députés ont rejeté sa partie recettes par **115 voix contre 1**.\n\nLes deux budgets sont donc partis au Sénat dans leur version d'origine.",
+       "more": [
+        "LCP – Budget 2027 rejeté : quelles sont les prochaines étapes ?",
+        "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
+       ]
+      },
+      {
+       "t": "order",
+       "q": "Remets les étapes dans l'ordre",
+       "items": [
+        "Le gouvernement présente le budget (1er octobre)",
+        "Les députés débattent et votent des amendements",
+        "L'Assemblée rejette la partie recettes (4 novembre)",
+        "La version initiale part au Sénat"
+       ],
+       "e": "Présentation, débats, rejet, puis transmission au Sénat : voilà le chemin parcouru par le budget 2027 cet automne."
+      },
+      {
+       "t": "sum",
+       "h": "À retenir",
+       "p": [
+        "Le **4 novembre 2026**, l'Assemblée rejette le budget 2027 : **458 contre, 0 pour**.",
+        "Raisons différentes selon les camps : choix contestés, texte détricoté, déficit qui gonfle.",
+        "Le texte repart au Sénat dans sa **version initiale**.",
+        "Le budget de la Sécu avait déjà été rejeté le **23 octobre**."
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Les acteurs et leurs positions",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "Le casting",
+       "h": "Qui est qui ?",
+       "b": "Pour suivre l'histoire, il faut connaître les personnages. On va les présenter **sans prendre parti** : à toi de te faire ton avis !",
+       "tip": "Dans l'actu politique, repère toujours **qui parle** et **au nom de quel camp** : ça aide à comprendre les arguments."
+      },
+      {
+       "t": "flip",
+       "h": "Le gouvernement",
+       "items": [
+        [
+         "Sébastien Lecornu",
+         "**Premier ministre**. Il dirige le gouvernement et porte le budget."
+        ],
+        [
+         "David Amiel",
+         "**Ministre des Comptes publics** : il défend le budget au Parlement."
+        ],
+        [
+         "Roland Lescure",
+         "**Ministre de l'Économie**."
+        ],
+        [
+         "Jean-Pierre Farandou",
+         "**Ministre du Travail** : il a détaillé la hausse du Smic."
+        ]
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "Le problème de fond",
+       "h": "Pas de majorité absolue",
+       "b": "Le gouvernement **n'a pas de majorité absolue** à l'Assemblée nationale : aucun camp n'a à lui seul plus de la moitié des 577 sièges.\n\nRésultat : pour faire passer un texte, il faut convaincre d'autres groupes. Et sur le budget, c'est très difficile.",
+       "more": [
+        "Toute l'Europe – Budget 2027 : ce qu'il faut retenir",
+        "https://www.touteleurope.eu/economie-et-social/budget-2027-ce-qu-il-faut-retenir-des-mesures-annoncees-par-le-gouvernement-lecornu/"
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "Ce qu'ils disent",
+       "h": "Les positions, camp par camp",
+       "b": "**Gouvernement** (David Amiel) : « Nous avons quelques semaines pour dessiner un compromis indispensable. »\n\n**LFI** (Éric Coquerel, président de la commission des Finances) : « Ce budget n'était pas crédible à l'origine. »\n\n**PS** (Estelle Mercier) : elle y voit « le testament d'un pouvoir qui aura réussi l'exploit d'enrichir les plus riches tout en appauvrissant l'État ».\n\n**RN** (Jean-Philippe Tanguy) : il juge l'exécutif « incapable de mettre de l'ordre dans les comptes ».\n\n**Horizons** (Laurent Marcangeli) : « Le texte a été complètement dénaturé. »",
+       "tip": "Ces phrases sont rapportées par l'AFP. Chaque camp défend sa lecture : aucune n'est « la vérité » à elle seule.",
+       "more": [
+        "AFP via Blick – Budget 2027 : l'Assemblée nationale le rejette",
+        "https://www.blick.ch/fr/monde/france/budget-2027-lassemblee-nationale-le-rejette/8zb2ld8"
+       ]
+      },
+      {
+       "t": "match",
+       "q": "Associe chaque personne à son rôle",
+       "pairs": [
+        [
+         "Sébastien Lecornu",
+         "Premier ministre"
+        ],
+        [
+         "David Amiel",
+         "Ministre des Comptes publics"
+        ],
+        [
+         "Éric Coquerel",
+         "Président de la commission des Finances (LFI)"
+        ],
+        [
+         "Jean-Pierre Farandou",
+         "Ministre du Travail"
+        ]
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "Qui est le Premier ministre qui porte le budget 2027 ?",
+       "o": [
+        "François Bayrou",
+        "Michel Barnier",
+        "Sébastien Lecornu",
+        "Roland Lescure"
+       ],
+       "a": 2,
+       "e": "C'est **Sébastien Lecornu**, Premier ministre depuis septembre 2025."
+      },
+      {
+       "t": "txt",
+       "k": "Le Sénat",
+       "h": "L'autre chambre",
+       "b": "Le **Sénat** a maintenant les textes en main : il examine le budget de la Sécu **du 9 au 18 novembre**, puis celui de l'État **du 20 novembre au 9 décembre**.\n\nMatignon dit compter sur un compromis **après** le passage au Sénat, en décembre.",
+       "more": [
+        "LCP – Budget 2027 rejeté : quelles sont les prochaines étapes ?",
+        "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "Dans la rue",
+       "h": "Les syndicats",
+       "b": "Le budget se joue aussi hors du Parlement. Le 9 novembre, lors d'une conférence sociale à Matignon, les syndicats réclamaient plus pour les salaires : la **CFDT** demandait **+100 € net** par mois sur le Smic, la **CGT** **+10 %**.\n\nLe patronat, lui, insiste sur les marges de manœuvre limitées des entreprises.",
+       "more": [
+        "Public Sénat – Hausse anticipée du Smic à 1 502 euros",
+        "https://www.publicsenat.fr/actualites/politique/pouvoir-dachat-sebastien-lecornu-annonce-une-hausse-anticipee-du-smic-a-1-502-euros-des-le-1er-decembre"
+       ]
+      },
+      {
+       "t": "vf",
+       "q": "Le gouvernement Lecornu dispose d'une majorité absolue à l'Assemblée nationale.",
+       "a": false,
+       "e": "Faux : aucun camp n'a la majorité absolue. C'est justement ce qui rend le vote du budget si compliqué."
+      },
+      {
+       "t": "sum",
+       "h": "À retenir",
+       "p": [
+        "Gouvernement : **Lecornu** (Premier ministre), **Amiel** (Comptes publics), **Lescure** (Économie).",
+        "**Pas de majorité absolue** à l'Assemblée : il faut des compromis.",
+        "Chaque groupe a rejeté le budget pour **ses propres raisons**.",
+        "Le **Sénat** examine maintenant les deux textes, jusqu'au 9 décembre."
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Les chiffres clés, sans prise de tête",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "Respire",
+       "h": "Des milliards, ça donne le vertige",
+       "b": "On va voir quelques chiffres. Pas besoin de tout retenir : l'important, c'est de comprendre **ce qu'ils racontent**.",
+       "tip": "Le **PIB**, c'est la richesse produite en France en un an. On exprime souvent le déficit et la dette « en % du PIB » pour comparer avec d'autres pays."
+      },
+      {
+       "t": "txt",
+       "k": "Le déficit",
+       "h": "Le trou de l'année",
+       "b": "Le déficit public était de **5,1 % du PIB en 2025**. Il devrait atteindre **5,4 % en 2026**, alors qu'on espérait le réduire, notamment à cause du choc énergétique lié à la guerre en Iran.\n\nObjectif du gouvernement pour 2027 : **5 %**.",
+       "more": [
+        "Toute l'Europe – Budget 2027 : ce qu'il faut retenir",
+        "https://www.touteleurope.eu/economie-et-social/budget-2027-ce-qu-il-faut-retenir-des-mesures-annoncees-par-le-gouvernement-lecornu/"
+       ]
+      },
+      {
+       "t": "num",
+       "q": "Quel est l'objectif de déficit public fixé par le gouvernement pour 2027 (en % du PIB) ?",
+       "min": 0,
+       "max": 10,
+       "step": 0.1,
+       "a": 5,
+       "tol": 0.2,
+       "u": "%",
+       "e": "Le gouvernement vise **5 %** du PIB en 2027, contre 5,4 % attendus en 2026."
+      },
+      {
+       "t": "txt",
+       "k": "La règle européenne",
+       "h": "La barre des 3 %",
+       "b": "Les règles européennes demandent que le déficit reste **sous les 3 % du PIB**. La France en est loin : elle est sous **procédure pour déficit excessif** depuis **juillet 2024**, comme plusieurs autres pays de l'UE.",
+       "more": [
+        "Toute l'Europe – Budget 2027 : ce qu'il faut retenir",
+        "https://www.touteleurope.eu/economie-et-social/budget-2027-ce-qu-il-faut-retenir-des-mesures-annoncees-par-le-gouvernement-lecornu/"
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "La dette",
+       "h": "La montagne",
+       "b": "La dette publique tourne autour de **3 600 milliards d'euros**, soit environ **120 % du PIB**. Selon le projet de budget, elle passerait de 119,3 % à **121,7 %** du PIB en 2027.\n\nEn clair : la France doit plus que ce qu'elle produit en une année entière.",
+       "tip": "Plus la dette est grosse et plus les taux d'intérêt montent, plus les **intérêts** à payer chaque année coûtent cher.",
+       "more": [
+        "Public Sénat – Hausse anticipée du Smic à 1 502 euros",
+        "https://www.publicsenat.fr/actualites/politique/pouvoir-dachat-sebastien-lecornu-annonce-une-hausse-anticipee-du-smic-a-1-502-euros-des-le-1er-decembre"
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "La dette publique française représente environ…",
+       "o": [
+        "30 % du PIB",
+        "60 % du PIB",
+        "120 % du PIB",
+        "300 % du PIB"
+       ],
+       "a": 2,
+       "e": "Environ **120 % du PIB**, soit autour de 3 600 milliards d'euros."
+      },
+      {
+       "t": "txt",
+       "k": "L'effort",
+       "h": "54 milliards à trouver",
+       "b": "Pour passer de 5,4 % à 5 %, le budget prévoit un effort de **54 milliards d'euros**, dont **43 milliards** de mesures nouvelles. Une partie vient d'économies (État, protection sociale, collectivités), une autre de nouvelles recettes.",
+       "more": [
+        "La finance pour tous – PLF 2027 : les mesures pour les particuliers",
+        "https://www.lafinancepourtous.com/2026/10/02/projet-de-loi-de-finances-pour-2027-les-mesures-pour-les-particuliers/"
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "La conjoncture",
+       "h": "Une économie qui cale",
+       "b": "Mauvaise nouvelle pour les comptes : le **PIB a reculé de 0,1 %** au 3e trimestre 2026 (Insee), après 0 % au 2e et -0,2 % au 1er. Et l'**inflation** a atteint **3,4 %** sur un an en octobre.\n\nLe ministre de l'Économie Roland Lescure l'a reconnu : « l'économie française est à l'arrêt ».",
+       "tip": "Moins de croissance = moins d'impôts qui rentrent = un déficit plus dur à réduire.",
+       "more": [
+        "AFP via Fortuneo – Le PIB recule au 3e trimestre",
+        "https://bourse.fortuneo.fr/actualites/en-france-le-pib-recule-au-3eme-trimestre-et-l-economie-francaise-est-a-l-arret-3094270"
+       ]
+      },
+      {
+       "t": "vf",
+       "q": "Au 3e trimestre 2026, l'économie française a progressé de 1 %.",
+       "a": false,
+       "e": "Faux : le PIB a **reculé de 0,1 %** au 3e trimestre, surtout à cause d'une forte baisse des exportations."
+      },
+      {
+       "t": "match",
+       "q": "Associe chaque chiffre à ce qu'il mesure",
+       "pairs": [
+        [
+         "5,4 %",
+         "Déficit attendu en 2026"
+        ],
+        [
+         "5 %",
+         "Objectif de déficit en 2027"
+        ],
+        [
+         "3 %",
+         "Plafond de déficit des règles européennes"
+        ],
+        [
+         "-0,1 %",
+         "Évolution du PIB au 3e trimestre 2026"
+        ]
+       ]
+      },
+      {
+       "t": "sum",
+       "h": "À retenir",
+       "p": [
+        "Déficit : **5,4 %** du PIB attendu en 2026, objectif **5 %** en 2027.",
+        "Règle européenne : **3 %**. La France est en procédure pour déficit excessif.",
+        "Dette : environ **3 600 milliards**, soit **120 %** du PIB.",
+        "Économie au ralenti : PIB **-0,1 %** au 3e trimestre, inflation **3,4 %** en octobre."
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Comment on en est arrivé là",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "Flash-back",
+       "h": "Une crise qui dure depuis 2024",
+       "b": "Le rejet du 4 novembre n'arrive pas de nulle part. Depuis les législatives de 2024, l'Assemblée est divisée en plusieurs blocs, sans majorité absolue. Et chaque budget devient un casse-tête."
+      },
+      {
+       "t": "txt",
+       "k": "L'arme 49.3",
+       "h": "Le fameux 49.3",
+       "b": "L'**article 49.3** de la Constitution permet au gouvernement de faire adopter un texte **sans vote**.\n\nMais en échange, les députés peuvent déposer une **motion de censure**. Si elle obtient la majorité absolue (en principe **289 voix**), le gouvernement est renversé.",
+       "tip": "49.3 = « on passe sans vote, mais vous pouvez nous faire tomber »."
+      },
+      {
+       "t": "txt",
+       "k": "Décembre 2024",
+       "h": "La chute de Michel Barnier",
+       "b": "Le **4 décembre 2024**, le Premier ministre Michel Barnier utilise le 49.3 sur le budget de la Sécu. Une motion de censure est adoptée par **331 députés** (gauche et RN) : son gouvernement tombe.\n\nC'était la première fois qu'un 49.3 faisait tomber un gouvernement. Le seul précédent de censure remontait à **1962** (Georges Pompidou).",
+       "more": [
+        "Public Sénat – Le gouvernement Barnier renversé",
+        "https://www.publicsenat.fr/actualites/parlementaire/le-gouvernement-de-michel-barnier-renverse-apres-ladoption-de-la-motion-de-censure-du-nfp"
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "Le filet de sécurité",
+       "h": "La loi spéciale",
+       "b": "Sans budget au 1er janvier, l'État vote une **loi spéciale** : elle reconduit les impôts et les crédits de l'année précédente pour que l'État continue de fonctionner. Mais elle n'autorise **ni nouvel impôt, ni dépense nouvelle**.\n\nCet outil a servi fin 2024, puis à nouveau fin 2025 (promulguée le **27 décembre 2025**).",
+       "more": [
+        "MoneyVox – La loi spéciale promulguée au Journal officiel",
+        "https://www.moneyvox.fr/actu/106846/budget-2026-la-loi-speciale-promulguee-au-journal-officiel"
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "À quoi sert une « loi spéciale » ?",
+       "o": [
+        "À augmenter les impôts en urgence",
+        "À faire fonctionner l'État quand le budget n'est pas voté à temps",
+        "À dissoudre l'Assemblée",
+        "À remplacer le Premier ministre"
+       ],
+       "a": 1,
+       "e": "Elle reconduit provisoirement les impôts et les dépenses de l'année précédente, en attendant un vrai budget."
+      },
+      {
+       "t": "tl",
+       "h": "Les budgets à rebondissements",
+       "ev": [
+        [
+         "4 déc. 2024",
+         "Censure du gouvernement Barnier (331 voix)"
+        ],
+        [
+         "Déc. 2024",
+         "Première loi spéciale ; budget 2025 adopté en février 2025"
+        ],
+        [
+         "8 sept. 2025",
+         "François Bayrou perd un vote de confiance et doit partir"
+        ],
+        [
+         "Sept. 2025",
+         "Sébastien Lecornu devient Premier ministre"
+        ],
+        [
+         "27 déc. 2025",
+         "Nouvelle loi spéciale promulguée"
+        ],
+        [
+         "2 févr. 2026",
+         "Budget 2026 adopté définitivement après un 49.3"
+        ],
+        [
+         "4 nov. 2026",
+         "L'Assemblée rejette le budget 2027 (458 contre)"
+        ]
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "Le budget 2026",
+       "h": "Comment il est finalement passé",
+       "b": "Le budget 2026 a été **définitivement adopté le 2 février 2026**, après un dernier 49.3. Deux motions de censure ont été rejetées : celle de la gauche (hors PS) a obtenu **260 voix** sur les 289 nécessaires, celle du RN et de l'UDR **135 voix**.\n\nLe gouvernement avait négocié avec les socialistes pour éviter la censure.",
+       "more": [
+        "LCP – Le budget 2026 définitivement adopté",
+        "https://lcp.fr/actualites/le-budget-2026-definitivement-adopte-apres-le-rejet-des-deux-dernieres-motions-de"
+       ]
+      },
+      {
+       "t": "order",
+       "q": "Remets ces événements dans l'ordre chronologique",
+       "items": [
+        "Censure du gouvernement Barnier",
+        "Chute du gouvernement Bayrou",
+        "Adoption du budget 2026",
+        "Rejet du budget 2027 à l'Assemblée"
+       ],
+       "e": "Décembre 2024, septembre 2025, février 2026, novembre 2026 : trois budgets de suite ont été très difficiles à voter."
+      },
+      {
+       "t": "vf",
+       "q": "Avant 2024, un gouvernement de la Ve République avait déjà été renversé par une motion de censure.",
+       "a": true,
+       "e": "Vrai : en **1962**, le gouvernement de Georges Pompidou avait été censuré. Mais en 2024, c'était la première fois après un 49.3."
+      },
+      {
+       "t": "sum",
+       "h": "À retenir",
+       "p": [
+        "Le **49.3** fait passer un texte sans vote, mais expose à une **motion de censure**.",
+        "**Décembre 2024** : Barnier est renversé. **Septembre 2025** : Bayrou tombe à son tour.",
+        "La **loi spéciale** évite le blocage, mais sans nouvel impôt ni nouvelle dépense.",
+        "Le budget 2026 n'a été adopté que le **2 février 2026**."
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Et maintenant ? Ce que ça change pour toi",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "La suite",
+       "h": "Quatre scénarios possibles",
+       "b": "Après le Sénat, une **commission mixte paritaire** (7 députés + 7 sénateurs) tentera un compromis. Les observateurs jugent un accord peu probable. Ensuite, le gouvernement a plusieurs options :\n\n**1. Le 49.3**, après avoir négocié une « non-censure » avec un groupe.\n**2. Les ordonnances**, après le délai de 70 jours : une **première** sous la Ve République.\n**3. La loi spéciale**, pour prolonger le budget 2026.\n**4. Un compromis voté**, si les camps se mettent d'accord.",
+       "more": [
+        "LCP – Budget 2027 rejeté : quelles sont les prochaines étapes ?",
+        "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
+       ]
+      },
+      {
+       "t": "flip",
+       "h": "Les options, en une phrase",
+       "items": [
+        [
+         "49.3",
+         "Adoption sans vote, mais risque de censure."
+        ],
+        [
+         "Ordonnances",
+         "Le gouvernement met le budget en œuvre seul si le Parlement n'a pas tranché dans les délais. Jamais utilisé."
+        ],
+        [
+         "Loi spéciale",
+         "On prolonge le budget de l'année d'avant, sans nouvelles mesures."
+        ],
+        [
+         "CMP",
+         "7 députés + 7 sénateurs cherchent un texte commun."
+        ]
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "Quelle option n'a jamais été utilisée sous la Ve République pour un budget ?",
+       "o": [
+        "Le 49.3",
+        "La loi spéciale",
+        "Les ordonnances budgétaires",
+        "La commission mixte paritaire"
+       ],
+       "a": 2,
+       "e": "Les **ordonnances budgétaires** n'ont jamais servi. Elles deviendraient possibles après le **17 décembre** pour le budget de l'État."
+      },
+      {
+       "t": "txt",
+       "k": "Le contexte",
+       "h": "L'ombre de la présidentielle",
+       "b": "L'élection présidentielle a lieu au printemps 2027. Les travaux de l'Assemblée doivent s'arrêter le **28 février 2027** à cause de la campagne.\n\nLe ministre David Amiel a appelé les parlementaires à ne pas se laisser « hypnotiser par l'élection présidentielle ».",
+       "more": [
+        "Euronews – Budget 2027 : l'Assemblée rejette le texte à l'unanimité",
+        "https://fr.euronews.com/2026/11/05/budget-2027-lassemblee-nationale-rejette-le-texte-a-lunanimite"
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "Ton porte-monnaie",
+       "h": "Le Smic augmente dès le 1er décembre",
+       "b": "Le **lundi 9 novembre**, Sébastien Lecornu a annoncé une hausse du Smic de **1,6 %** au **1er décembre**, un mois avant la hausse habituelle de janvier.\n\nLe Smic net mensuel passe d'environ **1 478 €** à **1 502 €**, soit près de **24 €** de plus. C'est le premier « coup de pouce » décidé par un gouvernement depuis **juillet 2012**.",
+       "tip": "Un « coup de pouce », c'est une hausse décidée en plus de la revalorisation automatique prévue par la loi.",
+       "more": [
+        "Dépêche AFP – « La deuxième hausse la plus importante en 20 ans »",
+        "https://www.connaissancedesenergies.org/afp/hausse-du-smic-la-deuxieme-hausse-la-plus-importante-en-20-ans-dit-lecornu-261109"
+       ]
+      },
+      {
+       "t": "num",
+       "q": "Combien vaudra environ le Smic net mensuel au 1er décembre 2026 ?",
+       "min": 1300,
+       "max": 1700,
+       "step": 1,
+       "a": 1502,
+       "tol": 10,
+       "u": "€",
+       "e": "Environ **1 502 € net** par mois, soit près de 24 € de plus."
+      },
+      {
+       "t": "txt",
+       "k": "Ce qui est prévu",
+       "h": "Les mesures du projet initial",
+       "b": "Si le projet du gouvernement passe tel quel, voici quelques mesures qui te concerneraient :\n\n**Allocations familiales** gelées en 2027 (pas de revalorisation).\n**Retraites** : pleinement indexées sur l'inflation sous **1 260 €** par mois, moins au-dessus.\n**Abattement fiscal des retraités** : plafond ramené de 4 439 € à **3 000 €**.\n**APL** : pas de revalorisation en 2027.",
+       "tip": "Attention : ces mesures ne sont **pas encore votées**. Elles peuvent changer d'ici la fin du parcours.",
+       "more": [
+        "Toute l'Europe – Budget 2027 : ce qu'il faut retenir",
+        "https://www.touteleurope.eu/economie-et-social/budget-2027-ce-qu-il-faut-retenir-des-mesures-annoncees-par-le-gouvernement-lecornu/"
+       ]
+      },
+      {
+       "t": "vf",
+       "q": "Les mesures du projet de budget 2027 (gel des allocations, etc.) sont déjà définitivement adoptées.",
+       "a": false,
+       "e": "Faux : le budget n'est pas voté. Les mesures peuvent encore être modifiées, supprimées ou remplacées."
+      },
+      {
+       "t": "qcm",
+       "q": "À partir de quand le Smic augmente-t-il de 1,6 % ?",
+       "o": [
+        "1er novembre 2026",
+        "1er décembre 2026",
+        "1er janvier 2027",
+        "1er mai 2027"
+       ],
+       "a": 1,
+       "e": "Au **1er décembre 2026**, soit un mois plus tôt que la revalorisation habituelle de janvier."
+      },
+      {
+       "t": "txt",
+       "k": "Ton super-pouvoir",
+       "h": "Comment suivre la suite",
+       "b": "Dans les semaines qui viennent, guette ces mots dans l'actu : **Sénat**, **CMP**, **49.3**, **motion de censure**, **ordonnances**, **17 décembre**.\n\nTu sais maintenant ce que chacun veut dire. Bravo, tu viens de décrypter l'un des sujets les plus compliqués de la politique française !",
+       "tip": "Pour une info fiable, privilégie les sites officiels (assemblee-nationale.fr, senat.fr, vie-publique.fr) et les grands médias qui citent leurs sources."
+      },
+      {
+       "t": "sum",
+       "h": "Ce que tu sais maintenant",
+       "p": [
+        "Prochaines étapes : **Sénat**, puis **CMP**, puis 49.3, ordonnances ou loi spéciale.",
+        "Dates à surveiller : **26 novembre** (Sécu) et **17 décembre** (État).",
+        "**Smic** : +1,6 % au 1er décembre, environ **1 502 € net**.",
+        "Les mesures du budget (allocations, retraites…) ne sont **pas encore votées**."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "c": "Actu",
+   "d": 1,
+   "q": "Le 4 novembre 2026, combien de députés ont voté POUR la partie recettes du budget 2027 ?",
+   "o": [
+    "0",
+    "152",
+    "289",
+    "458"
+   ],
+   "a": 0,
+   "e": "Aucun ! 458 contre, 0 pour, 2 abstentions.",
+   "id": "actu-2026-11-09-1"
+  },
+  {
+   "c": "Actu",
+   "d": 1,
+   "t": "vf",
+   "q": "Après son rejet à l'Assemblée, le budget 2027 est transmis au Sénat dans sa version initiale.",
+   "a": true,
+   "e": "Oui, c'est la version du gouvernement, sans les amendements des députés, qui part au Sénat.",
+   "id": "actu-2026-11-09-2"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Jusqu'à quelle date le Parlement a-t-il pour se prononcer sur le budget de l'État avant que des ordonnances soient possibles ?",
+   "o": [
+    "26 novembre",
+    "9 décembre",
+    "17 décembre",
+    "31 décembre"
+   ],
+   "a": 2,
+   "e": "Le délai de 70 jours expire le 17 décembre 2026 pour le PLF.",
+   "id": "actu-2026-11-09-3"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Quel objectif de déficit public le gouvernement vise-t-il pour 2027 ?",
+   "o": [
+    "3 % du PIB",
+    "4 % du PIB",
+    "5 % du PIB",
+    "6 % du PIB"
+   ],
+   "a": 2,
+   "e": "5 % du PIB, contre 5,4 % attendus en 2026.",
+   "id": "actu-2026-11-09-4"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Qui est ministre des Comptes publics et défend le budget au Parlement ?",
+   "o": [
+    "Roland Lescure",
+    "David Amiel",
+    "Jean-Pierre Farandou",
+    "Éric Coquerel"
+   ],
+   "a": 1,
+   "e": "David Amiel est ministre des Comptes publics.",
+   "id": "actu-2026-11-09-5"
+  },
+  {
+   "c": "Actu",
+   "d": 3,
+   "t": "vf",
+   "q": "Un budget de l'État n'a encore jamais été mis en œuvre par ordonnances sous la Ve République.",
+   "a": true,
+   "e": "Vrai : ce serait une première.",
+   "id": "actu-2026-11-09-6"
+  },
+  {
+   "c": "Actu",
+   "d": 1,
+   "q": "De combien le Smic augmente-t-il au 1er décembre 2026 ?",
+   "o": [
+    "0,6 %",
+    "1,6 %",
+    "5 %",
+    "10 %"
+   ],
+   "a": 1,
+   "e": "+1,6 %, soit environ 1 502 € net par mois.",
+   "id": "actu-2026-11-09-7"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "t": "vf",
+   "q": "Ce coup de pouce au Smic est le premier décidé par un gouvernement depuis 2012.",
+   "a": true,
+   "e": "Vrai, selon l'AFP : le précédent remontait à juillet 2012 (+0,6 %).",
+   "id": "actu-2026-11-09-8"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Selon l'Insee, comment a évolué le PIB français au 3e trimestre 2026 ?",
+   "o": [
+    "+0,5 %",
+    "+0,1 %",
+    "0 %",
+    "-0,1 %"
+   ],
+   "a": 3,
+   "e": "Le PIB a reculé de 0,1 %, surtout à cause de la baisse des exportations.",
+   "id": "actu-2026-11-09-9"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Quel était le taux d'inflation sur un an en France en octobre 2026 ?",
+   "o": [
+    "1,2 %",
+    "2,0 %",
+    "3,4 %",
+    "6,1 %"
+   ],
+   "a": 2,
+   "e": "3,4 %, son plus haut niveau depuis janvier 2024.",
+   "id": "actu-2026-11-09-10"
+  },
+  {
+   "c": "Actu",
+   "d": 1,
+   "q": "Dans quel pays se tient la COP31 sur le climat, ouverte le 9 novembre 2026 ?",
+   "o": [
+    "Brésil",
+    "Turquie",
+    "Australie",
+    "Égypte"
+   ],
+   "a": 1,
+   "e": "À Antalya, en Turquie, jusqu'au 20 novembre.",
+   "id": "actu-2026-11-09-11"
+  },
+  {
+   "c": "Actu",
+   "d": 3,
+   "q": "À la COP31, quel pays mène les négociations en vertu d'un accord de co-présidence ?",
+   "o": [
+    "L'Australie",
+    "La France",
+    "La Chine",
+    "L'Inde"
+   ],
+   "a": 0,
+   "e": "Le ministre australien Chris Bowen supervise les négociations, la Turquie préside la COP.",
+   "id": "actu-2026-11-09-12"
+  },
+  {
+   "c": "Actu",
+   "d": 1,
+   "q": "Quel patron emblématique a démissionné de la tête de Nvidia le 12 novembre 2026 ?",
+   "o": [
+    "Elon Musk",
+    "Tim Cook",
+    "Jensen Huang",
+    "Sam Altman"
+   ],
+   "a": 2,
+   "e": "Jensen Huang, cofondateur de Nvidia en 1993, a quitté ses fonctions de PDG et le conseil d'administration.",
+   "id": "actu-2026-11-09-13"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Qui assure l'intérim à la tête de Nvidia ?",
+   "o": [
+    "Colette Kress, la directrice financière",
+    "Jensen Huang lui-même",
+    "Satya Nadella",
+    "Le gouvernement américain"
+   ],
+   "a": 0,
+   "e": "Colette Kress, directrice financière depuis 2013, devient PDG par intérim.",
+   "id": "actu-2026-11-09-14"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "t": "vf",
+   "q": "Le jour de l'annonce, l'action Nvidia a fortement baissé à Wall Street.",
+   "a": true,
+   "e": "Vrai : elle a chuté de plus de 14 % en séance avant de réduire ses pertes.",
+   "id": "actu-2026-11-09-15"
+  },
+  {
+   "c": "Actu",
+   "d": 1,
+   "q": "Où se sont tenues les négociations Russie-Ukraine des 10 et 11 novembre 2026 ?",
+   "o": [
+    "Genève",
+    "Istanbul",
+    "Abou Dhabi",
+    "Paris"
+   ],
+   "a": 2,
+   "e": "À Abou Dhabi (Émirats arabes unis), sous médiation américaine.",
+   "id": "actu-2026-11-09-16"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Quel a été le principal résultat concret de ces pourparlers ?",
+   "o": [
+    "Un cessez-le-feu",
+    "Un accord sur un échange de prisonniers",
+    "Un traité de paix",
+    "L'entrée de l'Ukraine dans l'Otan"
+   ],
+   "a": 1,
+   "e": "Un accord de principe sur un vaste échange de prisonniers, sans percée sur le cessez-le-feu.",
+   "id": "actu-2026-11-09-17"
+  },
+  {
+   "c": "Actu",
+   "d": 1,
+   "t": "vf",
+   "q": "Aux élections de mi-mandat du 3 novembre 2026, les démocrates ont remporté la Chambre des représentants et le Sénat américains.",
+   "a": true,
+   "e": "Vrai : les démocrates prendront le contrôle des deux chambres du Congrès en janvier.",
+   "id": "actu-2026-11-09-18"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Quel était le principal motif de la grève générale du 11 novembre 2026 en Espagne ?",
+   "o": [
+    "Le prix du logement",
+    "La réforme des retraites",
+    "Le service militaire",
+    "Les impôts sur l'essence"
+   ],
+   "a": 0,
+   "e": "Les syndicats CCOO et UGT dénonçaient surtout le coût du logement et réclamaient de meilleurs salaires.",
+   "id": "actu-2026-11-09-19"
+  },
+  {
+   "c": "Actu",
+   "d": 3,
+   "q": "Quand ont lieu les élections législatives espagnoles ?",
+   "o": [
+    "11 novembre 2026",
+    "29 novembre 2026",
+    "Mars 2027",
+    "Juin 2027"
+   ],
+   "a": 1,
+   "e": "Le 29 novembre 2026, 18 jours après la grève générale.",
+   "id": "actu-2026-11-09-20"
+  }
+ ]
+}
