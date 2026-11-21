@@ -1,6 +1,698 @@
 {
- "week": "Semaine du 9 novembre 2026",
+ "week": "Semaine du 16 novembre 2026",
  "formations": [
+  {
+   "id": "actu-2026-11-16",
+   "cat": "Actu de la semaine",
+   "level": "Débutante",
+   "title": "Génocide des Rohingyas : le verdict historique de la justice mondiale",
+   "sub": "Pour la première fois, la Cour de l'ONU déclare un État coupable de génocide : on décrypte tout, de zéro.",
+   "lessons": [
+    {
+     "title": "Le 19 novembre : un verdict historique",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "Bienvenue",
+       "h": "Un jugement qui fait date",
+       "b": "Jeudi **19 novembre 2026**, à La Haye (Pays-Bas), la plus haute juridiction de l'ONU, la **Cour internationale de justice (CIJ)**, a rendu une décision historique.\n\nElle a jugé que la **Birmanie** (aussi appelée **Myanmar**) a commis un **génocide** contre les **Rohingyas**, une minorité musulmane du pays.\n\nPas de panique si ces mots te semblent flous : on va tout reprendre, depuis zéro.",
+       "tip": "Birmanie et Myanmar, c'est le même pays. En France on dit souvent « Birmanie », l'ONU dit « Myanmar ».",
+       "more": [
+        "ONU Info – La CIJ reconnaît le Myanmar coupable de génocide",
+        "https://news.un.org/fr/story/2026/11/1159874"
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "Le verdict",
+       "h": "Ce que la Cour a décidé",
+       "b": "La Cour a conclu que les forces de sécurité birmanes et d'autres organes de l'État ont **intentionnellement** commis des actes de génocide contre les Rohingyas, lors des violences de **2017**.\n\nElle a aussi jugé que la Birmanie a **manqué à son obligation de prévenir et de punir** ce génocide.\n\nEnviron **10 000 Rohingyas** ont été tués, selon la Cour.",
+       "more": [
+        "Human Rights Watch – La CIJ juge le Myanmar responsable du génocide",
+        "https://www.hrw.org/fr/news/2026/11/19/la-cour-internationale-de-justice-juge-le-myanmar-responsable-du-genocide-des"
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "Quelle juridiction a rendu ce verdict le 19 novembre 2026 ?",
+       "o": [
+        "La Cour pénale internationale (CPI)",
+        "La Cour internationale de justice (CIJ)",
+        "La Cour européenne des droits de l'homme",
+        "Le Conseil de sécurité de l'ONU"
+       ],
+       "a": 1,
+       "e": "C'est la **CIJ**, le tribunal de l'ONU qui règle les litiges **entre États**. On verra plus tard la différence avec la CPI, qui juge des personnes."
+      },
+      {
+       "t": "num",
+       "q": "La Cour compte 15 juges. Combien ont voté pour ce verdict ?",
+       "min": 0,
+       "max": 15,
+       "step": 1,
+       "a": 9,
+       "tol": 0,
+       "u": "juges",
+       "e": "Le verdict a été adopté par **9 voix contre 6**. Une majorité nette, mais pas l'unanimité : les juges opposés estimaient notamment que les preuves n'atteignaient pas le niveau exigé jusque-là par la Cour."
+      },
+      {
+       "t": "txt",
+       "k": "Pourquoi c'est historique",
+       "h": "Une première",
+       "b": "C'est la **première fois** que la CIJ déclare un **État** responsable d'avoir **commis** un génocide.\n\nEn 2007, dans l'affaire Bosnie contre Serbie, la Cour avait seulement jugé que la Serbie n'avait **pas empêché** le massacre de Srebrenica (1995), sans dire qu'elle l'avait elle-même commis.",
+       "more": [
+        "ONU Info – La CIJ reconnaît le Myanmar coupable de génocide",
+        "https://news.un.org/fr/story/2026/11/1159874"
+       ]
+      },
+      {
+       "t": "vf",
+       "q": "Avant le 19 novembre 2026, la CIJ avait déjà condamné un État pour avoir lui-même commis un génocide.",
+       "a": false,
+       "e": "Faux. En 2007, la Serbie avait été jugée coupable de ne **pas avoir empêché** le génocide de Srebrenica, mais pas de l'avoir commis. La Birmanie est une première."
+      },
+      {
+       "t": "flip",
+       "h": "Les 4 mots clés de la semaine",
+       "items": [
+        [
+         "CIJ",
+         "Cour internationale de justice : le tribunal de l'ONU qui juge les **États**. Siège : La Haye."
+        ],
+        [
+         "Rohingyas",
+         "Minorité **musulmane** vivant surtout dans l'ouest de la Birmanie, pays très majoritairement bouddhiste."
+        ],
+        [
+         "Génocide",
+         "Actes commis avec l'**intention de détruire** tout ou partie d'un groupe national, ethnique, racial ou religieux."
+        ],
+        [
+         "Gambie",
+         "Petit pays d'Afrique de l'Ouest qui a **porté plainte** contre la Birmanie en 2019."
+        ]
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "Quel pays a attaqué la Birmanie en justice devant la CIJ ?",
+       "o": [
+        "Le Bangladesh",
+        "La France",
+        "La Gambie",
+        "Les États-Unis"
+       ],
+       "a": 2,
+       "e": "C'est la **Gambie**, en novembre 2019, avec le soutien de l'Organisation de la coopération islamique (OCI). Surprenant ? On verra pourquoi elle avait le droit de le faire."
+      },
+      {
+       "t": "txt",
+       "k": "Et la Birmanie ?",
+       "h": "Sa position",
+       "b": "La Birmanie a toujours **contesté** l'accusation de génocide. Elle affirme que ses « opérations de nettoyage » de 2017 répondaient à des **attaques armées** contre des postes de police, menées par un groupe rebelle rohingya.",
+       "more": [
+        "Al Jazeera – What the ICJ genocide ruling means for the Rohingya (en anglais)",
+        "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+       ]
+      },
+      {
+       "t": "sum",
+       "h": "À retenir",
+       "p": [
+        "19 novembre 2026 : la CIJ juge que la Birmanie a commis un génocide contre les Rohingyas.",
+        "Vote : 9 juges pour, 6 contre.",
+        "C'est une première : jamais un État n'avait été reconnu auteur d'un génocide par cette Cour.",
+        "C'est la Gambie qui a porté l'affaire, en 2019 ; la Birmanie conteste."
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Qui sont les Rohingyas ?",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "Le pays",
+       "h": "La Birmanie en deux mots",
+       "b": "La Birmanie est un pays d'**Asie du Sud-Est**, entre l'Inde, le Bangladesh, la Chine et la Thaïlande.\n\nSa population est **très majoritairement bouddhiste**. Le pays compte de nombreuses minorités ethniques, et il a longtemps été dirigé par l'**armée**.",
+       "tip": "Repère sur une carte : la Birmanie touche le Bangladesh à l'ouest. C'est là que vivaient la plupart des Rohingyas."
+      },
+      {
+       "t": "txt",
+       "k": "Le peuple",
+       "h": "Les Rohingyas",
+       "b": "Les Rohingyas sont une minorité **musulmane** qui vivait surtout dans l'**État de l'Arakan (Rakhine)**, dans l'ouest du pays.\n\nAvant 2017, ils étaient environ **1,4 million** en Birmanie, selon Al Jazeera.",
+       "more": [
+        "Al Jazeera – What the ICJ genocide ruling means for the Rohingya (en anglais)",
+        "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "1982",
+       "h": "Un peuple sans nationalité",
+       "b": "En **1982**, une loi sur la citoyenneté a privé la plupart des Rohingyas de la nationalité birmane. Ils sont devenus **apatrides** : sans pays qui les reconnaît.\n\nConcrètement, ça veut dire des droits très limités pour se déplacer, étudier, se marier ou travailler.",
+       "more": [
+        "Al Jazeera – What the ICJ genocide ruling means for the Rohingya (en anglais)",
+        "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+       ]
+      },
+      {
+       "t": "vf",
+       "q": "Un « apatride » est une personne qu'aucun pays ne reconnaît comme son citoyen.",
+       "a": true,
+       "e": "Vrai. C'est le cas de la plupart des Rohingyas depuis la loi de 1982."
+      },
+      {
+       "t": "txt",
+       "k": "Août 2017",
+       "h": "L'exode",
+       "b": "Le **25 août 2017**, un groupe armé rohingya (l'ARSA) attaque des postes de sécurité. L'armée lance alors des « **opérations de nettoyage** ».\n\nLa Cour a retenu des massacres, des viols et des incendies de villages : environ **400 villages** détruits en tout ou partie.\n\nEn quelques mois, **plus de 700 000 Rohingyas** fuient vers le **Bangladesh** voisin.",
+       "more": [
+        "ONU Info – La CIJ reconnaît le Myanmar coupable de génocide",
+        "https://news.un.org/fr/story/2026/11/1159874"
+       ]
+      },
+      {
+       "t": "num",
+       "q": "Selon la Cour, combien de Rohingyas ont été tués lors des violences de 2017 ?",
+       "min": 0,
+       "max": 50000,
+       "step": 1000,
+       "a": 10000,
+       "tol": 0,
+       "u": "personnes",
+       "e": "Environ **10 000** personnes, selon les constatations de la Cour reprises par l'ONU et Al Jazeera."
+      },
+      {
+       "t": "qcm",
+       "q": "Vers quel pays la majorité des Rohingyas ont-ils fui en 2017 ?",
+       "o": [
+        "La Thaïlande",
+        "La Chine",
+        "Le Bangladesh",
+        "L'Inde"
+       ],
+       "a": 2,
+       "e": "Le **Bangladesh**, frontalier de l'Arakan. Plus de 700 000 personnes y sont arrivées."
+      },
+      {
+       "t": "txt",
+       "k": "Aujourd'hui",
+       "h": "Le plus grand camp de réfugiés",
+       "b": "Aujourd'hui, **plus d'un million** de Rohingyas vivent dans les camps de **Cox's Bazar**, au Bangladesh. Al Jazeera parle d'environ 1,2 million.\n\nLa plupart y vivent depuis 2017, dans des conditions difficiles, sans pouvoir rentrer chez eux.",
+       "more": [
+        "Al Jazeera – What the ICJ genocide ruling means for the Rohingya (en anglais)",
+        "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+       ]
+      },
+      {
+       "t": "match",
+       "q": "Associe chaque date à ce qui s'est passé",
+       "pairs": [
+        [
+         "1982",
+         "Loi qui rend la plupart des Rohingyas apatrides"
+        ],
+        [
+         "25 août 2017",
+         "Attaques de l'ARSA puis « opérations de nettoyage »"
+        ],
+        [
+         "Fin 2017",
+         "Plus de 700 000 Rohingyas fuient au Bangladesh"
+        ],
+        [
+         "19 novembre 2026",
+         "La CIJ reconnaît le génocide"
+        ]
+       ]
+      },
+      {
+       "t": "sum",
+       "h": "À retenir",
+       "p": [
+        "Les Rohingyas : minorité musulmane de l'ouest de la Birmanie, pays majoritairement bouddhiste.",
+        "Depuis 1982, la plupart sont apatrides.",
+        "En 2017 : environ 10 000 morts et plus de 700 000 réfugiés au Bangladesh.",
+        "Plus d'un million vivent aujourd'hui dans les camps de Cox's Bazar."
+       ]
+      }
+     ]
+    },
+    {
+     "title": "C'est quoi, juridiquement, un génocide ?",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "L'origine du mot",
+       "h": "Un mot inventé en 1944",
+       "b": "Le mot **génocide** a été inventé en **1944** par **Raphael Lemkin**, un juriste juif polonais, pour nommer l'extermination des Juifs par les nazis.\n\nIl assemble le grec *genos* (le peuple, la race) et le latin *-cide* (tuer).",
+       "tip": "Même construction que « homicide » : *homo* (l'homme) + *-cide*."
+      },
+      {
+       "t": "txt",
+       "k": "1948",
+       "h": "La Convention sur le génocide",
+       "b": "Le **9 décembre 1948**, l'Assemblée générale de l'ONU adopte la **Convention pour la prévention et la répression du crime de génocide**. C'est la veille de la Déclaration universelle des droits de l'homme.\n\nPlus de 150 États l'ont ratifiée, dont la France, la Gambie et la Birmanie. C'est sur ce texte que la Cour s'est appuyée."
+      },
+      {
+       "t": "txt",
+       "k": "La définition",
+       "h": "Deux ingrédients obligatoires",
+       "b": "Pour qu'il y ait génocide, il faut **deux choses** :\n\n**1. Des actes** : tuer des membres d'un groupe, leur causer de graves atteintes physiques ou mentales, leur imposer des conditions de vie qui mènent à leur destruction, empêcher les naissances, ou transférer de force leurs enfants.\n\n**2. Une intention** : vouloir **détruire, en tout ou en partie**, un groupe national, ethnique, racial ou religieux, **en tant que tel**."
+      },
+      {
+       "t": "vf",
+       "q": "Un très grand nombre de victimes suffit, à lui seul, pour qu'on parle juridiquement de génocide.",
+       "a": false,
+       "e": "Faux. Ce qui fait le génocide, c'est l'**intention de détruire un groupe**. Sans cette intention prouvée, des crimes même massifs peuvent être des crimes de guerre ou des crimes contre l'humanité, mais pas un génocide."
+      },
+      {
+       "t": "txt",
+       "k": "Le cœur du débat",
+       "h": "Prouver l'intention",
+       "b": "L'intention, c'est le plus dur à prouver : les auteurs l'écrivent rarement noir sur blanc.\n\nIci, la majorité des juges a estimé que la **seule conclusion raisonnable** à tirer des atrocités était l'intention de détruire une partie substantielle des Rohingyas.\n\nLes 6 juges opposés pensaient au contraire que la Cour abaissait son niveau d'exigence par rapport à ses décisions précédentes.",
+       "more": [
+        "ASIL – ICJ Rules Myanmar Committed Genocide (en anglais)",
+        "https://asil.org/ilib/icj-rules-myanmar-committed-genocide-against-rohingya/"
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "Selon la Convention de 1948, qu'est-ce qui distingue le génocide des autres crimes ?",
+       "o": [
+        "Le nombre de morts",
+        "L'usage d'armes chimiques",
+        "L'intention de détruire un groupe en tant que tel",
+        "Le fait d'avoir lieu en temps de guerre"
+       ],
+       "a": 2,
+       "e": "C'est l'**intention** de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux."
+      },
+      {
+       "t": "txt",
+       "k": "Ce que la Cour a retenu",
+       "h": "Les actes reconnus",
+       "b": "Selon l'ONU, la Cour a retenu trois types d'actes contre les Rohingyas :\n\n• des **meurtres** ;\n• des **atteintes graves** à l'intégrité physique ou mentale ;\n• des **mesures visant à entraver les naissances** (le meurtre de nourrissons a été cité comme preuve).",
+       "more": [
+        "ONU Info – La CIJ reconnaît le Myanmar coupable de génocide",
+        "https://news.un.org/fr/story/2026/11/1159874"
+       ]
+      },
+      {
+       "t": "flip",
+       "h": "Ne pas confondre",
+       "items": [
+        [
+         "Crime de guerre",
+         "Violation grave des règles de la guerre (par exemple viser des civils)."
+        ],
+        [
+         "Crime contre l'humanité",
+         "Attaque généralisée ou systématique contre une population civile."
+        ],
+        [
+         "Génocide",
+         "Actes commis avec l'intention de détruire un groupe **en tant que tel**."
+        ],
+        [
+         "Nettoyage ethnique",
+         "Expulser un groupe d'un territoire. Ce n'est pas un crime défini à part dans les traités."
+        ]
+       ]
+      },
+      {
+       "t": "vf",
+       "q": "La Birmanie avait elle-même signé la Convention sur le génocide.",
+       "a": true,
+       "e": "Vrai. C'est justement parce que la Birmanie et la Gambie sont toutes deux parties à la Convention que la Cour pouvait juger l'affaire."
+      },
+      {
+       "t": "sum",
+       "h": "À retenir",
+       "p": [
+        "Le mot « génocide » date de 1944 (Raphael Lemkin).",
+        "La Convention de l'ONU contre le génocide date du 9 décembre 1948.",
+        "Génocide = des actes + l'intention de détruire un groupe en tant que tel.",
+        "Prouver l'intention est le plus difficile : c'est là-dessus que les juges se sont divisés."
+       ]
+      }
+     ]
+    },
+    {
+     "title": "CIJ, CPI : qui juge quoi ?",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "La CIJ",
+       "h": "Le tribunal des États",
+       "b": "La **Cour internationale de justice** a été créée en **1945** par la Charte des Nations unies. Elle siège au **Palais de la Paix**, à La Haye.\n\nElle compte **15 juges** élus pour 9 ans. Elle règle les différends **entre États** : frontières, traités, et ici, la Convention sur le génocide.",
+       "tip": "À la CIJ, il n'y a pas d'accusé en chair et en os : c'est un pays face à un autre."
+      },
+      {
+       "t": "txt",
+       "k": "La CPI",
+       "h": "Le tribunal des personnes",
+       "b": "La **Cour pénale internationale**, elle, juge des **individus** (chefs militaires, dirigeants…) et peut les condamner à la prison. Elle fonctionne depuis **2002**, elle aussi à La Haye.\n\nDans le dossier rohingya, son procureur a demandé fin 2024 un mandat d'arrêt contre le chef de l'armée birmane, **Min Aung Hlaing**. C'est une procédure **séparée**.",
+       "more": [
+        "Human Rights Watch – Questions et réponses sur l'affaire",
+        "https://www.hrw.org/fr/news/2026/11/03/arret-de-la-cij-dans-laffaire-de-genocide-visant-le-myanmar-questions-et-reponses"
+       ]
+      },
+      {
+       "t": "match",
+       "q": "Relie chaque tribunal à ce qu'il fait",
+       "pairs": [
+        [
+         "CIJ",
+         "Juge la responsabilité des États"
+        ],
+        [
+         "CPI",
+         "Juge des individus et peut prononcer de la prison"
+        ],
+        [
+         "Conseil de sécurité",
+         "Peut décider de mesures pour faire appliquer un arrêt de la CIJ"
+        ]
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "Dans l'affaire Gambie contre Birmanie, qui est jugé ?",
+       "o": [
+        "Les soldats birmans un par un",
+        "Le chef de l'armée birmane",
+        "L'État birman",
+        "Aung San Suu Kyi"
+       ],
+       "a": 2,
+       "e": "C'est la **responsabilité de l'État** birman. Comme le rappelle Human Rights Watch, ce n'est pas une affaire pénale visant des individus."
+      },
+      {
+       "t": "txt",
+       "k": "La question qui intrigue",
+       "h": "Pourquoi la Gambie ?",
+       "b": "La Gambie n'a aucun lien direct avec les Rohingyas. Mais la Convention de 1948 protège un intérêt **commun à tous** les pays signataires.\n\nN'importe quel État partie peut donc saisir la Cour contre un autre (article IX de la Convention). Selon Human Rights Watch, c'était la **première fois** qu'un État sans lien direct utilisait cette possibilité.",
+       "more": [
+        "Le Club des Juristes – La CIJ reconnaît un génocide commis par la Birmanie",
+        "https://www.leclubdesjuristes.com/en-bref/la-cour-internationale-de-justice-reconnait-que-la-birmanie-a-commis-un-genocide-a-lencontre-les-rohingyas-18491/"
+       ]
+      },
+      {
+       "t": "vf",
+       "q": "Un pays doit être directement touché par un génocide pour pouvoir saisir la CIJ.",
+       "a": false,
+       "e": "Faux. La Gambie l'a montré : tout État partie à la Convention peut agir, car empêcher un génocide est l'affaire de tous."
+      },
+      {
+       "t": "txt",
+       "k": "Et la France ?",
+       "h": "11 pays aux côtés de la procédure",
+       "b": "**Onze États** sont intervenus dans l'affaire pour donner leur lecture de la Convention, dont la **France**, l'Allemagne, le Royaume-Uni, le Canada, les Pays-Bas, le Danemark, la Belgique, l'Irlande, la Slovénie, les Maldives et la RD Congo.\n\nIntervenir ne veut pas dire être juge : ces pays ont donné leur avis juridique.",
+       "more": [
+        "Al Jazeera – What the ICJ genocide ruling means for the Rohingya (en anglais)",
+        "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "Combien de juges compte la CIJ ?",
+       "o": [
+        "5",
+        "9",
+        "15",
+        "27"
+       ],
+       "a": 2,
+       "e": "**15 juges**, de nationalités différentes. Ici, 9 ont voté pour le verdict et 6 contre."
+      },
+      {
+       "t": "sum",
+       "h": "À retenir",
+       "p": [
+        "CIJ (1945) : juge les États. CPI (2002) : juge des personnes.",
+        "Les deux siègent à La Haye, mais ce sont deux tribunaux différents.",
+        "Tout État partie à la Convention peut agir contre un génocide : c'est ce qu'a fait la Gambie.",
+        "La France fait partie des 11 États intervenus dans la procédure."
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Sept ans de procédure",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "La justice prend son temps",
+       "h": "De 2019 à 2026",
+       "b": "Entre la plainte de la Gambie et le verdict, il s'est écoulé **sept ans**. C'est long, mais c'est fréquent devant la CIJ : il faut d'abord vérifier que la Cour peut juger, puis examiner des milliers de pages de preuves.\n\nOn remonte le fil ensemble.",
+       "more": [
+        "Human Rights Watch – Questions et réponses sur l'affaire",
+        "https://www.hrw.org/fr/news/2026/11/03/arret-de-la-cij-dans-laffaire-de-genocide-visant-le-myanmar-questions-et-reponses"
+       ]
+      },
+      {
+       "t": "tl",
+       "h": "Les grandes dates",
+       "ev": [
+        [
+         "1982",
+         "Loi sur la citoyenneté : la plupart des Rohingyas deviennent apatrides"
+        ],
+        [
+         "Août 2017",
+         "« Opérations de nettoyage » : exode vers le Bangladesh"
+        ],
+        [
+         "Novembre 2019",
+         "La Gambie saisit la CIJ"
+        ],
+        [
+         "Décembre 2019",
+         "Aung San Suu Kyi défend la Birmanie à La Haye"
+        ],
+        [
+         "Janvier 2020",
+         "Mesures d'urgence ordonnées à la Birmanie"
+        ],
+        [
+         "Février 2021",
+         "Coup d'État militaire en Birmanie"
+        ],
+        [
+         "Juillet 2022",
+         "La Cour se déclare compétente"
+        ],
+        [
+         "Janvier 2026",
+         "Audiences sur le fond"
+        ],
+        [
+         "19 novembre 2026",
+         "Verdict : génocide reconnu"
+        ]
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "Décembre 2019",
+       "h": "Une Prix Nobel à la barre",
+       "b": "À l'époque, la Birmanie est dirigée par un gouvernement civil mené par **Aung San Suu Kyi**, Prix Nobel de la paix 1991.\n\nElle vient elle-même à La Haye défendre son pays et qualifie les accusations de la Gambie d'« incomplètes et trompeuses », rapporte Al Jazeera. Cette image a beaucoup terni sa réputation à l'étranger.",
+       "more": [
+        "Al Jazeera – What the ICJ genocide ruling means for the Rohingya (en anglais)",
+        "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+       ]
+      },
+      {
+       "t": "vf",
+       "q": "Aung San Suu Kyi est venue à La Haye pour soutenir la plainte de la Gambie.",
+       "a": false,
+       "e": "Faux. Elle est venue **défendre la Birmanie** contre l'accusation de génocide, en décembre 2019."
+      },
+      {
+       "t": "txt",
+       "k": "Janvier 2020",
+       "h": "Des mesures d'urgence",
+       "b": "Sans attendre le jugement final, la Cour a ordonné à la Birmanie de **prévenir tout acte de génocide**, de s'assurer que ses forces n'en commettent pas, et de **conserver les preuves**. Le pays devait faire un rapport tous les six mois.\n\nEn juillet 2022, la Cour a rejeté toutes les objections de la Birmanie et s'est déclarée compétente.",
+       "more": [
+        "Human Rights Watch – Questions et réponses sur l'affaire",
+        "https://www.hrw.org/fr/news/2026/11/03/arret-de-la-cij-dans-laffaire-de-genocide-visant-le-myanmar-questions-et-reponses"
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "Février 2021",
+       "h": "Le coup d'État",
+       "b": "Le 1er février 2021, l'armée renverse le gouvernement d'Aung San Suu Kyi, qui est arrêtée. Le pays plonge dans une guerre civile.\n\nLe procès continue quand même : à la CIJ, c'est l'**État** qui est jugé, quel que soit le gouvernement au pouvoir."
+      },
+      {
+       "t": "order",
+       "q": "Remets ces étapes dans l'ordre chronologique",
+       "items": [
+        "La Gambie saisit la CIJ",
+        "Mesures d'urgence ordonnées à la Birmanie",
+        "Coup d'État de l'armée birmane",
+        "La Cour se déclare compétente",
+        "Verdict de génocide"
+       ],
+       "e": "2019, 2020, 2021, 2022, puis 2026. Sept ans au total."
+      },
+      {
+       "t": "qcm",
+       "q": "En quelle année la Gambie a-t-elle saisi la CIJ ?",
+       "o": [
+        "2017",
+        "2019",
+        "2021",
+        "2024"
+       ],
+       "a": 1,
+       "e": "En **novembre 2019**, deux ans après l'exode de 2017."
+      },
+      {
+       "t": "txt",
+       "k": "Deux récits face à face",
+       "h": "Les arguments des deux camps",
+       "b": "**La Gambie** soutenait que les massacres, viols et incendies de 2017 visaient à détruire les Rohingyas en tant que groupe.\n\n**La Birmanie** répondait qu'il s'agissait d'opérations antiterroristes ciblées, en réponse aux attaques de l'ARSA, et non d'une volonté de détruire un peuple.\n\nAprès sept ans, la majorité des juges a donné raison à la Gambie.",
+       "more": [
+        "ASIL – ICJ Rules Myanmar Committed Genocide (en anglais)",
+        "https://asil.org/ilib/icj-rules-myanmar-committed-genocide-against-rohingya/"
+       ]
+      },
+      {
+       "t": "sum",
+       "h": "À retenir",
+       "p": [
+        "2019 : plainte de la Gambie. 2020 : mesures d'urgence. 2022 : la Cour se dit compétente.",
+        "Aung San Suu Kyi a défendu la Birmanie en 2019, avant d'être renversée par l'armée en 2021.",
+        "Le procès vise l'État, pas un gouvernement : il a donc continué après le coup d'État.",
+        "Gambie : volonté de détruire un groupe. Birmanie : opérations antiterroristes. La Cour a tranché pour la Gambie."
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Et maintenant ? Ce que ça change",
+     "cards": [
+      {
+       "t": "txt",
+       "k": "Les obligations",
+       "h": "Ce que la Cour exige",
+       "b": "La Cour ordonne à la Birmanie de :\n\n• adopter des **lois** qui appliquent pleinement la Convention ;\n• **enquêter** sur les responsables et les poursuivre ;\n• garantir que cela **ne se reproduira pas** ;\n• permettre un **retour** sûr, volontaire et digne des Rohingyas ;\n• **indemniser** les victimes (le montant sera fixé plus tard).",
+       "more": [
+        "ONU Info – La CIJ reconnaît le Myanmar coupable de génocide",
+        "https://news.un.org/fr/story/2026/11/1159874"
+       ]
+      },
+      {
+       "t": "num",
+       "q": "Dans combien d'années la Birmanie doit-elle rendre compte à la Cour de ses mesures de réparation ?",
+       "min": 0,
+       "max": 10,
+       "step": 1,
+       "a": 2,
+       "tol": 0,
+       "u": "ans",
+       "e": "**Deux ans**, soit d'ici novembre 2028. La Cour fixera ensuite les indemnisations."
+      },
+      {
+       "t": "vf",
+       "q": "La Birmanie peut faire appel de ce verdict.",
+       "a": false,
+       "e": "Faux. L'arrêt est **définitif, obligatoire et sans appel**."
+      },
+      {
+       "t": "txt",
+       "k": "La grande limite",
+       "h": "Une Cour sans police",
+       "b": "La CIJ n'a **aucun moyen** de forcer un pays à appliquer ses décisions : pas de police, pas d'armée.\n\nSi un État ne s'exécute pas, l'autre partie peut se tourner vers le **Conseil de sécurité de l'ONU** (article 94 de la Charte), qui peut faire des recommandations ou décider de mesures. Mais ses 5 membres permanents (États-Unis, Chine, Russie, Royaume-Uni, France) ont chacun un **droit de veto**.",
+       "more": [
+        "Le Club des Juristes – La CIJ reconnaît un génocide commis par la Birmanie",
+        "https://www.leclubdesjuristes.com/en-bref/la-cour-internationale-de-justice-reconnait-que-la-birmanie-a-commis-un-genocide-a-lencontre-les-rohingyas-18491/"
+       ]
+      },
+      {
+       "t": "qcm",
+       "q": "Qui peut, en théorie, prendre des mesures si la Birmanie n'applique pas l'arrêt ?",
+       "o": [
+        "L'Union européenne",
+        "Le Conseil de sécurité de l'ONU",
+        "La Cour pénale internationale",
+        "Le Bangladesh"
+       ],
+       "a": 1,
+       "e": "Le **Conseil de sécurité**, selon l'article 94 de la Charte de l'ONU. Mais un seul veto de ses membres permanents peut tout bloquer."
+      },
+      {
+       "t": "txt",
+       "k": "Les réactions",
+       "h": "Ce qu'en disent les uns et les autres",
+       "b": "Le secrétaire général de l'ONU, **António Guterres**, y voit une « reconnaissance forte des victimes rohingyas du génocide ».\n\nHuman Rights Watch parle d'un « précédent important ».\n\nLa Birmanie, elle, rejette toujours l'accusation de génocide.",
+       "more": [
+        "ONU Info – La CIJ reconnaît le Myanmar coupable de génocide",
+        "https://news.un.org/fr/story/2026/11/1159874"
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "Pour toi, en France",
+       "h": "Pourquoi ça te concerne",
+       "b": "**1. La France y a pris part** : elle fait partie des 11 États intervenus.\n\n**2. Un précédent** : d'autres affaires de génocide sont en cours devant la CIJ, par exemple Ukraine contre Russie (2022) ou Afrique du Sud contre Israël (2023), des accusations que la Russie et Israël rejettent. Ce verdict montre comment la Cour raisonne sur l'intention.\n\n**3. Le droit international** : il montre qu'un petit pays peut faire juger un État pour le crime le plus grave."
+      },
+      {
+       "t": "vf",
+       "q": "Ce verdict permet aux Rohingyas de rentrer immédiatement en Birmanie.",
+       "a": false,
+       "e": "Faux. La Cour ordonne de permettre un retour **sûr, volontaire et digne**, mais elle ne peut pas l'imposer sur le terrain. Plus d'un million de réfugiés vivent toujours au Bangladesh."
+      },
+      {
+       "t": "match",
+       "q": "Relie chaque acteur à sa position",
+       "pairs": [
+        [
+         "La Gambie",
+         "A porté plainte et demande l'application rapide de l'arrêt"
+        ],
+        [
+         "La Birmanie",
+         "Conteste la décision"
+        ],
+        [
+         "L'ONU (António Guterres)",
+         "Salue une reconnaissance des victimes"
+        ],
+        [
+         "Les 6 juges minoritaires",
+         "Estimaient que la Cour abaissait le niveau de preuve exigé"
+        ]
+       ]
+      },
+      {
+       "t": "txt",
+       "k": "À suivre",
+       "h": "Ce qui peut se passer ensuite",
+       "b": "Trois choses à surveiller dans les mois qui viennent :\n\n• la réaction de la Birmanie : appliquera-t-elle l'arrêt ?\n• une éventuelle saisine du **Conseil de sécurité** par la Gambie ;\n• la phase sur les **indemnisations**, avec un rapport attendu d'ici novembre 2028.\n\nEn parallèle, la procédure de la CPI contre des responsables birmans continue.",
+       "more": [
+        "Al Jazeera – What the ICJ genocide ruling means for the Rohingya (en anglais)",
+        "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+       ]
+      },
+      {
+       "t": "sum",
+       "h": "Bravo, tu as fini !",
+       "p": [
+        "La Birmanie doit légiférer, punir les responsables, permettre le retour des Rohingyas et les indemniser.",
+        "L'arrêt est définitif, mais la CIJ n'a pas de police pour l'imposer.",
+        "En cas de refus, le Conseil de sécurité peut agir, sous réserve du veto.",
+        "Ce verdict fera référence pour d'autres affaires de génocide en cours."
+       ]
+      }
+     ]
+    }
+   ]
+  },
   {
    "id": "actu-2026-11-09",
    "cat": "Actu de la semaine",
@@ -744,6 +1436,261 @@
   }
  ],
  "quiz": [
+  {
+   "c": "Actu",
+   "d": 1,
+   "q": "Le 19 novembre 2026, la Cour internationale de justice a jugé qu'un État avait commis un génocide. Lequel ?",
+   "o": [
+    "La Birmanie (Myanmar)",
+    "Le Soudan",
+    "La Serbie",
+    "La Russie"
+   ],
+   "a": 0,
+   "e": "La Birmanie, pour les violences de 2017 contre les Rohingyas.",
+   "id": "actu-2026-11-16-1"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Par combien de voix les juges de la CIJ ont-ils adopté ce verdict ?",
+   "o": [
+    "15 contre 0",
+    "12 contre 3",
+    "9 contre 6",
+    "8 contre 7"
+   ],
+   "a": 2,
+   "e": "9 voix contre 6.",
+   "id": "actu-2026-11-16-2"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "t": "vf",
+   "q": "L'affaire contre la Birmanie avait été portée devant la CIJ par la Gambie.",
+   "a": true,
+   "e": "Oui, en novembre 2019, avec le soutien de l'Organisation de la coopération islamique.",
+   "id": "actu-2026-11-16-3"
+  },
+  {
+   "c": "Actu",
+   "d": 1,
+   "q": "Dans quelle ville chinoise Donald Trump, Vladimir Poutine et Xi Jinping ont-ils tenu un sommet inédit le 19 novembre ?",
+   "o": [
+    "Pékin",
+    "Shanghai",
+    "Shenzhen",
+    "Hong Kong"
+   ],
+   "a": 2,
+   "e": "À Shenzhen, en marge du sommet de l'APEC.",
+   "id": "actu-2026-11-16-4"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Comment a été présenté le texte adopté par Trump, Poutine et Xi à l'issue de leur sommet ?",
+   "o": [
+    "Un traité de désarmement",
+    "Une déclaration de paix en quatre points",
+    "Un cessez-le-feu en Ukraine",
+    "Un accord commercial"
+   ],
+   "a": 1,
+   "e": "Une courte « déclaration de paix » en quatre points, aux objectifs jugés vagues. Elle ne contient pas de cessez-le-feu en Ukraine.",
+   "id": "actu-2026-11-16-5"
+  },
+  {
+   "c": "Actu",
+   "d": 1,
+   "q": "À quel prix par action la société d'IA Anthropic a-t-elle fixé son entrée en Bourse le 18 novembre ?",
+   "o": [
+    "23 dollars",
+    "50 dollars",
+    "83 dollars",
+    "150 dollars"
+   ],
+   "a": 2,
+   "e": "83 dollars, au-dessus de la fourchette prévue (70 à 78 dollars). Cotation au Nasdaq dès le 19 novembre.",
+   "id": "actu-2026-11-16-6"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "t": "vf",
+   "q": "Pour son premier jour de cotation, l'action Anthropic a terminé au-dessus de son prix d'introduction.",
+   "a": true,
+   "e": "Oui, environ +17 % à la clôture du 19 novembre, avant de reculer le lendemain.",
+   "id": "actu-2026-11-16-7"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "De combien le CAC 40 a-t-il reculé sur la semaine du 16 au 20 novembre 2026 ?",
+   "o": [
+    "Environ 0,5 %",
+    "Environ 2 %",
+    "Environ 5 %",
+    "Environ 15 %"
+   ],
+   "a": 2,
+   "e": "-5,27 %, sa deuxième pire semaine de l'année, sur fond de doutes autour de l'IA. Il a fini sous les 8 000 points.",
+   "id": "actu-2026-11-16-8"
+  },
+  {
+   "c": "Actu",
+   "d": 3,
+   "q": "Quel chiffre d'affaires trimestriel record Nvidia a-t-il annoncé le 17 novembre ?",
+   "o": [
+    "Environ 16 milliards $",
+    "Environ 58 milliards $",
+    "Environ 116 milliards $",
+    "Environ 300 milliards $"
+   ],
+   "a": 2,
+   "e": "115,8 milliards de dollars, plus du double d'il y a un an (+103 %).",
+   "id": "actu-2026-11-16-9"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Le 18 novembre, le Sénat a adopté en première lecture…",
+   "o": [
+    "Le budget de la Sécurité sociale 2027",
+    "La réforme des retraites",
+    "Le budget de l'État 2027",
+    "La loi immigration"
+   ],
+   "a": 0,
+   "e": "Le budget de la Sécu (PLFSS) 2027, par 201 voix contre 124. Le budget de l'État y est examiné depuis le 20 novembre.",
+   "id": "actu-2026-11-16-10"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Quelle mesure les sénateurs ont-ils votée contre les rendez-vous médicaux non honorés ?",
+   "o": [
+    "Une « taxe lapin »",
+    "Une suspension de la carte Vitale",
+    "Une amende de 100 €",
+    "Rien du tout"
+   ],
+   "a": 0,
+   "e": "La « taxe lapin », qui vise les patients qui ne viennent pas à leur rendez-vous sans prévenir.",
+   "id": "actu-2026-11-16-11"
+  },
+  {
+   "c": "Actu",
+   "d": 1,
+   "t": "vf",
+   "q": "Dominique de Villepin a annoncé le 20 novembre sa candidature à l'élection présidentielle de 2027.",
+   "a": true,
+   "e": "Oui, lors d'une conférence de presse à Paris.",
+   "id": "actu-2026-11-16-12"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Où se tenait la COP31 sur le climat, prolongée au-delà du 20 novembre ?",
+   "o": [
+    "À Belém (Brésil)",
+    "À Antalya (Turquie)",
+    "À Addis-Abeba (Éthiopie)",
+    "À Dubaï (Émirats)"
+   ],
+   "a": 1,
+   "e": "À Antalya, en Turquie. La COP32 est prévue à Addis-Abeba en 2027.",
+   "id": "actu-2026-11-16-13"
+  },
+  {
+   "c": "Actu",
+   "d": 3,
+   "t": "vf",
+   "q": "Le projet d'accord de la COP31 discuté le 20 novembre appelait clairement à sortir des énergies fossiles.",
+   "a": false,
+   "e": "Non : le projet ne mentionnait pas les énergies fossiles, ce qui a été vivement critiqué par plusieurs pays, dont la France.",
+   "id": "actu-2026-11-16-14"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Le 20 novembre à Bruxelles, le Royaume-Uni et l'Union européenne ont conclu…",
+   "o": [
+    "Le retour du Royaume-Uni dans l'UE",
+    "Un accord de « reset » de leurs relations",
+    "Une rupture des négociations",
+    "Une union douanière complète"
+   ],
+   "a": 1,
+   "e": "Un accord de rapprochement : mobilité pour les jeunes, contrôles sanitaires allégés sur les produits agricoles, marchés du carbone liés.",
+   "id": "actu-2026-11-16-15"
+  },
+  {
+   "c": "Actu",
+   "d": 3,
+   "q": "Combien de places prévoit le programme de mobilité pour les jeunes entre le Royaume-Uni et l'UE ?",
+   "o": [
+    "10 000",
+    "50 000",
+    "100 000",
+    "1 million"
+   ],
+   "a": 2,
+   "e": "100 000 places, pour des séjours jusqu'à 3 ans.",
+   "id": "actu-2026-11-16-16"
+  },
+  {
+   "c": "Actu",
+   "d": 2,
+   "q": "Quel ouvrage reliant la Russie à la Crimée l'Ukraine a-t-elle frappé cette semaine ?",
+   "o": [
+    "Le barrage de Kakhovka",
+    "Le pont de Kertch",
+    "Le port d'Odessa",
+    "La centrale de Zaporijia"
+   ],
+   "a": 1,
+   "e": "Le pont de Kertch (pont de Crimée). En représailles, la Russie a visé des ponts de Kiev dans la nuit du 19 au 20 novembre.",
+   "id": "actu-2026-11-16-17"
+  },
+  {
+   "c": "Actu",
+   "d": 3,
+   "q": "Selon l'Insee, à combien s'établit le climat des affaires en France en novembre 2026 ?",
+   "o": [
+    "85",
+    "95",
+    "100",
+    "110"
+   ],
+   "a": 1,
+   "e": "95, en baisse par rapport à octobre (97) et sous sa moyenne de long terme (100).",
+   "id": "actu-2026-11-16-18"
+  },
+  {
+   "c": "Actu",
+   "d": 3,
+   "t": "vf",
+   "q": "Selon le compte rendu de sa réunion d'octobre, la Banque centrale américaine (Fed) envisage une hausse de ses taux en décembre.",
+   "a": true,
+   "e": "Oui, presque tous les responsables s'attendent à une hausse de 0,25 point en décembre, face à l'inflation.",
+   "id": "actu-2026-11-16-19"
+  },
+  {
+   "c": "Actu",
+   "d": 1,
+   "q": "Où vivent aujourd'hui plus d'un million de réfugiés rohingyas ?",
+   "o": [
+    "En Thaïlande",
+    "Au Bangladesh, à Cox's Bazar",
+    "En Inde, à Calcutta",
+    "En Malaisie"
+   ],
+   "a": 1,
+   "e": "Dans les camps de Cox's Bazar, au Bangladesh, depuis l'exode de 2017.",
+   "id": "actu-2026-11-16-20"
+  },
   {
    "c": "Actu",
    "d": 1,
